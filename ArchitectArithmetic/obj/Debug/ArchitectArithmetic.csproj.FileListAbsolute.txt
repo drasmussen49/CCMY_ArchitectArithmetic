@@ -1,0 +1,7 @@
+C:\Users\Dan\source\repos\Codecademy\ArchitectArithmetic\ArchitectArithmetic\bin\Debug\ArchitectArithmetic.exe.config
+C:\Users\Dan\source\repos\Codecademy\ArchitectArithmetic\ArchitectArithmetic\bin\Debug\ArchitectArithmetic.exe
+C:\Users\Dan\source\repos\Codecademy\ArchitectArithmetic\ArchitectArithmetic\bin\Debug\ArchitectArithmetic.pdb
+C:\Users\Dan\source\repos\Codecademy\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\ArchitectArithmetic.csprojAssemblyReference.cache
+C:\Users\Dan\source\repos\Codecademy\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\ArchitectArithmetic.csproj.CoreCompileInputs.cache
+C:\Users\Dan\source\repos\Codecademy\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\ArchitectArithmetic.exe
+C:\Users\Dan\source\repos\Codecademy\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\ArchitectArithmetic.pdb
